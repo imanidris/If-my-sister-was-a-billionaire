@@ -7,13 +7,13 @@
 
 **Project Video:** [Click link](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7c66f633-e6ab-41ce-a7a6-b2a700dd037f)
 
-**Source Code link:** [Click link](https://git.arts.ac.uk/22004642/If-my-sister-was-a-billionaire/)
 
 -----------------------------------------------------------------------------------------------------------
-<img width="1000" alt="project image 1" src="https://git.arts.ac.uk/22004642/CCI-Course-Notebook-2/assets/1148/ded38d5d-eedb-46a1-a198-b1599b379537">
+
 
 ## **Project Description** 
 
+<img width="2000" height="995" alt="bags header" src="https://github.com/user-attachments/assets/f3f378f4-8c17-49f1-bb55-628e40599e20" />
 
 
   
@@ -53,9 +53,9 @@ By using this billionaire data to drive my sketches, I now have many p5.js sketc
 
 The results are data-driven digital art pieces that reflect wealth inequality and the unfathomable growth of wealth for the top 1% in our modern societies.
 
-<img width="1000" alt="project image  2" src="https://git.arts.ac.uk/22004642/CCI-Course-Notebook-2/assets/1148/3163f561-08f7-49fb-9479-fc1924d18734">
+![Uploading bags project images 1.png…]()
 
-<img width="1000" alt="project image  4" src="https://git.arts.ac.uk/22004642/CCI-Course-Notebook-2/assets/1148/8ffac875-81fd-42af-b8c8-846318f97eae">
+![Uploading bags project images 2.png…]()
 
 
 -----------------------------------------------------------------------------------------------------------
