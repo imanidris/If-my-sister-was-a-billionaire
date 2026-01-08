@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>If My Sister Was a Billionaire</title>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <style>
+    /* General Page Styling */
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0;
+      background-color: black;
+      color: white;
+      font-family: 'Courier New', sans-serif;
+    }
+
+
+
+    .title {
+      font-size: 40px;
+      align-items: left;
+      text-align: left;
+      position: absolute;
+      top: 20px;
+      left: 50px;
+      max-width: 400px;
+      /* Optional: Limit width for better readability */
+      z-index: 9;
+      font-family: 'Courier New', sans-serif;
+    }
+
+    .intro {
+      font-size: 15px;
+      align-items: left;
+      text-align: left;
+      position: absolute;
+      top: 250px;
+      left: 50px;
+      max-width: 280px;
+      /* Optional: Limit width for better readability */
+      z-index: 10;
+
+    }
+
+    .content {
+      font-size: 24px;
+      text-align: center;
+      position: center;
+      max-width: 500px;
+      margin-top: 670px;
+      margin-bottom: 250px;
+
+
+      z-index: 9;
+
+    }
+
+    .callToAction {
+      font-size: 24px;
+      text-align: center;
+      position: center;
+      max-width: 600px;
+      margin-top: 100px;
+      margin-bottom: 300px;
+      z-index: 9;
+
+    }
+
+
+
+    /* Center sketches & content inside main */
+    main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 200px;
+      width: 100%;
+    }
+
+
+
+
+    /* Styling for the first sketch (oneBag) */
+    #oneBag {
+      /* to center the div  */
+      position: absolute;
+      left: 0px;
+      right: 0px;
+      top: 0px;
+
+
+    }
+
+    /* Styling for the second sketch (sketch) */
+    #sketch {
+      /* to center the div */
+      position: absolute;
+      left: 0px;
+      right: 0px;
+      top: 0px;
+      width: 400px;
+      height: 400px;
+
+      margin-top: 1000px;
+      /* Creates a scroll effect */
+    }
+
+    /* Styling for the third sketch (sketch2) */
+    #sketch2 {
+      /* to center the div */
+      position: absolute;
+      left: 0px;
+      right: 0px;
+      top: 0px;
+      width: 400px;
+      height: 400px;
+      margin-top: 2000px;
+      /* Creates a scroll effect */
+    }
+
+    /* Styling for the forth sketch (sketch3) */
+    #sketch3 {
+      /* to center the div */
+      position: absolute;
+      left: 0px;
+      right: 0px;
+      top: 0px;
+      width: 400px;
+      height: 400px;
+      margin-top: 3000px;
+      /* Creates a scroll effect */
+    }
+  </style>
+
+</head>
+
+<body>
+  <h1 class="title">IF MY<nav></nav> SISTER <nav></nav> WAS A<nav></nav> BILLIONAIRE!</h1>
+
+  <div class="intro">
+    According to the office of national statistics, the Median total wealth for individuals in UK was estimated to be
+    £125,000, between April 2018 and March 2020.
+  </div>
+
+
+
+  <main>
+    <!-- First sketch (oneBag.js) appears in the center -->
+    <div id="oneBag"></div>
+
+
+
+    <div class="content">
+      Now imagin that my sister had a net worth of a billion dollar in 2001 how would that look in bags
+    </div>
+
+    <!-- Second sketch (sketch.js) appears below and requires scrolling -->
+    <div id="sketch"></div>
+
+
+    <div class="content">
+      We can’t really see the end of it, so let’s make the bags smaller
+    </div>
+
+    <!-- Third Sketch (sketch2.js) -->
+    <div id="sketch2"></div>
+
+    <div class="content">
+      Now let’s look at her net worth growth through the years
+    </div>
+
+    <!-- Fouth Sketch (sketch3.js) -->
+    <div id="sketch3"></div>
+
+    <div class="content">
+      If your browser crashed, mine did too! It’s a crazy amount!!
+    </div>
+
+
+    <!-- Last Sketch (lastOneBag.js) -->
+    <div id="lastOneBag"></div>
+
+
+    <div class="callToAction">
+      Help us stop the economy from collapsing and reduce wealth inequality! CLICK HERE to join the conversation! 
+    </div>
+
+
+  </main>
+
+
+
+  <script src="oneBag.js"></script>
+  <script src="sketch.js"></script>
+  <script src="sketch2.js"></script>
+  <script src="sketch3.js"></script>
+  <script src="lastOneBag.js"></script>
+
+</body>
+
+</html>
