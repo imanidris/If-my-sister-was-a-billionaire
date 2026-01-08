@@ -53,9 +53,10 @@ By using this billionaire data to drive my sketches, I now have many p5.js sketc
 
 The results are data-driven digital art pieces that reflect wealth inequality and the unfathomable growth of wealth for the top 1% in our modern societies.
 
-![Uploading bags project images 1.png…]()
+<img width="2000" height="997" alt="bags project images 1" src="https://github.com/user-attachments/assets/88614ea3-a83b-4017-b55a-9b92ce9111b9" />
 
-![Uploading bags project images 2.png…]()
+<img width="2000" height="1002" alt="bags project images 2" src="https://github.com/user-attachments/assets/3b50d85d-9e69-4cbb-9869-147de03e02b7" />
+
 
 
 -----------------------------------------------------------------------------------------------------------
